@@ -1,2 +1,2 @@
 # cap
-This is for my training module
+This is for training
